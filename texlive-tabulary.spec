@@ -6,7 +6,7 @@
 # catalog-version 0.9
 Name:		texlive-tabulary
 Version:	0.9
-Release:	2
+Release:	3
 Summary:	Tabular with variable width columns balanced
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabulary
