@@ -1,6 +1,6 @@
 Name:		texlive-tabulary
 Version:	34368
-Release:	1
+Release:	2
 Summary:	Tabular with variable width columns balanced
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabulary
